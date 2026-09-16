@@ -10,3 +10,8 @@ At first, it was confusing because you had to jump right in, but this channel do
 After completing the tutorials and doing the assignments per each video, I was able to create an effect where it is raining bananas from the top of the screen, and when you move, so do the bananas. 
 
 My next goal is to get Claude connected to TouchDesigner.
+
+## 09/16/2026
+I was able to conntect the Claude MCP to TouchDesigner, but it took a lot of back and forth to understand what to do and how to connect everything. After I got everyhting, it was pretty easy to do and manage.
+
+However, I am glad I did all of the TouchDesigner learning yesterday because once Claude did it's thing, I was able to go back in and look at the file and *actually understand what Claude did.*
