@@ -1,6 +1,6 @@
 # This is my build log
 
-09/09/2026: I started this project. 
+## 09/09/2026: I started this project. 
 
 ## 09/15/2026 — Homework 1: TouchDesigner
 I really wanted to understand TouchDesigner first, without the use of Claude doing it all for me. To do so, I found a great crash course on Youtube by **The Interactive & Immersive HQ** (https://www.youtube.com/watch?v=g20Qwg8gMBE&list=PLpuCjVEMQha9rjhDET3uuE0T3UeIcROJu). Although it is 27 videos, I only followed along and went through the first 20 and felt like I had enough knowledge to continue to play around with it myself. * Note - it did take me roughly 5 hours * 
