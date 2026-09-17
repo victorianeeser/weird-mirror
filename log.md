@@ -13,3 +13,5 @@ After completing the tutorials and doing the assignments per each video, I was a
 I was able to conntect the Claude to TouchDesigner, but it took a lot of back and forth to understand what to do and how to connect everything. After I got everyhting, it was pretty easy to do and manage.
 
 However, I am glad I did all of the TouchDesigner learning yesterday because once Claude did it's thing, I was able to go back in and look at the file and **actually understand what Claude did.**
+
+When I connected it to Claude, I just asked it to do a simple function. When you move your hand from left to right, it impacts the color value on the screen. Going to your right, makes it really green. Going to the left makes it really purple. Inbetween are all the colors of the rainbow.
