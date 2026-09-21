@@ -35,6 +35,7 @@ Standing still causes a chrysalis to appear on a visitor's body and a butterfly 
 
 **Ronen Tanchum — "Human Atmospheres" (2026, World Economic Forum, Davos)**
 An interactive generative landscape that merges live climate data with visitor movement and live music, turning the room into a shifting mountain/cloud environment that responds to the people in it.
+https://prforartists.com/human-atmospheres-ronen-tanchum-world-economic-forum-davos/ 
 - Inputs: attendees' physical movement (slow steps draw drifting clouds, sudden gestures summon storms) and live musical performance, layered on real-time Davos weather data. 
 - Outputs: a dynamic projected landscape of mountains, clouds, and weather that shifts in response to both. 
 - Concept: Tanchum calls it "an emotional mirror of the climate we live within and the presence we project into it" literally framed as a mirror, which lines up nicely with your project's own name.
