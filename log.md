@@ -17,18 +17,15 @@ However, I am glad I did all of the TouchDesigner learning yesterday because onc
 When I connected it to Claude, I just asked it to do a simple function. When you move your hand from left to right, it impacts the color value on the screen. Going to your right, makes it really green. Going to the left makes it really purple. Inbetween are all the colors of the rainbow.
 
 ## 09/19/2026 - 3 designers & 10 concepts
-**Dominic Harris — "Origins of Imagination" (2024, Naturalis Biodiversity Center)**
-https://fadmagazine.com/2024/11/27/ai-powered-new-interactive-artwork-from-dominic-harris-unveiled/
-
-Visitors hand-draw a butterfly, which an AI trained on the museum's real specimens turns into a realistic-looking digital butterfly that then joins a swarm flying free across a projected space.
+**Dominic Harris — "Origins of Imagination" (2024, Naturalis Biodiversity Center)** 
+Visitors hand-draw a butterfly, which an AI trained on the museum's real specimens turns into a realistic-looking digital butterfly that then joins a swarm flying free across a projected space. https://fadmagazine.com/2024/11/27/ai-powered-new-interactive-artwork-from-dominic-harris-unveiled/
 - Inputs: a visitor's hand-drawn butterfly, scanned in. 
 - Outputs: an AI-generated digital butterfly added to an evolving projected swarm. 
 - Concept: inspired by Darwin's children doodling on his manuscript — visitors become co-creators in a continuously evolving digital ecosystem.
 
 **TeamLab — "Flutter of Butterflies Beyond Borders, Ephemeral Life Born from People" (touring 2022–2024, now permanent at ArtScience Museum Singapore)**
-https://www.teamlab.art/w/butterflies_ephemerallife_people/ 
-
 Standing still causes a chrysalis to appear on a visitor's body and a butterfly to emerge and fly off, but touching a butterfly kills it.
+https://www.teamlab.art/w/butterflies_ephemerallife_people/ 
 - Inputs: a visitor's presence/stillness (birth) and touch (death). 
 - Outputs: real-time-rendered butterflies that dance through the space and cross into neighboring artworks. 
 - Concept: people usually notice butterflies being born from others before realizing they're doing it too — interconnectedness rippling through a shared space.
