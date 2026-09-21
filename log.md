@@ -15,3 +15,28 @@ I was able to conntect the Claude to TouchDesigner, but it took a lot of back an
 However, I am glad I did all of the TouchDesigner learning yesterday because once Claude did it's thing, I was able to go back in and look at the file and **actually understand what Claude did.**
 
 When I connected it to Claude, I just asked it to do a simple function. When you move your hand from left to right, it impacts the color value on the screen. Going to your right, makes it really green. Going to the left makes it really purple. Inbetween are all the colors of the rainbow.
+
+## 09/19/2026 - 3 designers & 10 concepts
+**Dominic Harris — "Origins of Imagination" (2024, Naturalis Biodiversity Center)**
+https://fadmagazine.com/2024/11/27/ai-powered-new-interactive-artwork-from-dominic-harris-unveiled/
+
+Visitors hand-draw a butterfly, which an AI trained on the museum's real specimens turns into a realistic-looking digital butterfly that then joins a swarm flying free across a projected space.
+- Inputs: a visitor's hand-drawn butterfly, scanned in. 
+- Outputs: an AI-generated digital butterfly added to an evolving projected swarm. 
+- Concept: inspired by Darwin's children doodling on his manuscript — visitors become co-creators in a continuously evolving digital ecosystem.
+
+**TeamLab — "Flutter of Butterflies Beyond Borders, Ephemeral Life Born from People" (touring 2022–2024, now permanent at ArtScience Museum Singapore)**
+https://www.teamlab.art/w/butterflies_ephemerallife_people/ 
+
+Standing still causes a chrysalis to appear on a visitor's body and a butterfly to emerge and fly off, but touching a butterfly kills it.
+- Inputs: a visitor's presence/stillness (birth) and touch (death). 
+- Outputs: real-time-rendered butterflies that dance through the space and cross into neighboring artworks. 
+- Concept: people usually notice butterflies being born from others before realizing they're doing it too — interconnectedness rippling through a shared space.
+
+**Ronen Tanchum — "Human Atmospheres" (2026, World Economic Forum, Davos)**
+An interactive generative landscape that merges live climate data with visitor movement and live music, turning the room into a shifting mountain/cloud environment that responds to the people in it.
+- Inputs: attendees' physical movement (slow steps draw drifting clouds, sudden gestures summon storms) and live musical performance, layered on real-time Davos weather data. 
+- Outputs: a dynamic projected landscape of mountains, clouds, and weather that shifts in response to both. 
+- Concept: Tanchum calls it "an emotional mirror of the climate we live within and the presence we project into it" literally framed as a mirror, which lines up nicely with your project's own name.
+
+My 10 concepts are in concepts.md
