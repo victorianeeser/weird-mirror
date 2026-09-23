@@ -38,3 +38,12 @@ https://prforartists.com/human-atmospheres-ronen-tanchum-world-economic-forum-da
 - Concept: Tanchum calls it "an emotional mirror of the climate we live within and the presence we project into it" literally framed as a mirror, which lines up nicely with your project's own name.
 
 My 10 concepts are in concepts.md
+
+## 09/22/2026 - Concept Rough Draft
+Today I wanted to explore what my final concept is going to be and how I am going to do it. For my final concept, I want to do something with earth and show how it has changed overtime, showing the result of climate change and other factors. I think this could be really cool overall if I had one hand controll the timeline of everything and the other hand could zoom in and out on the globe.
+
+As I was trying to get Claude and TouchDesigner running together I encountered many errors a long the way. I tried to start with handtracking the globe so as you move, so does it. However, after 5 errors of it not working, I took a step back and made just a rotating globe to start. 
+
+![alt text](<Screenshot 2026-09-22 at 5.32.18 PM.png>)
+
+![alt text](<Screenshot 2026-09-22 at 9.26.13 PM.png>)
