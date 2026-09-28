@@ -51,6 +51,6 @@ As I was trying to get Claude and TouchDesigner running together I encountered m
 ## 09/25/2026 - Flow
 After a few more tries of running everything and after it crashed 3 more times, I was able to get it to work!!! Here is my concept: As your hand moves, so does the globe. I was able to find a video from NASA that already had everything laid out in the way I wanted. 
 
-My goal was to get everything working and show my prrof of concept. I don't know if my final version could be built out on an actual globe or something. I also want to add a feature where you can zoom in and out. 
+My goal was to get everything working and show my proof of concept. I don't know if my final version could be built out on an actual globe or something. I also want to add a feature where you can zoom in and out. 
 
-To see the video, It is 9:25.mov.
+To see the video, It is 9:25.mov. 
