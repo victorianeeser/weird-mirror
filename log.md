@@ -55,7 +55,7 @@ My goal was to get everything working and show my proof of concept. I don't know
 
 To see the video, It is 9:25.mov. 
 
-## 09/29/2026
+## 09/29/2026 - Claude pulling data to make globe
 I was able to have Claude pull the points and I wanted to try making it manually. It could work but I think my version needs a lot more work. Claude was able to make the basics with a globe and rotating, but it couldn't really create the same visual when it comes to the data points. 
 
 Maybe I will go back to the video version, but make some more tweaks instead, to make it more customized. 
@@ -63,8 +63,9 @@ Maybe I will go back to the video version, but make some more tweaks instead, to
 Here is the version Claude made when given that data only. 
 ![alt text](<Screenshot 2026-09-30 at 5.48.17 PM.png>) 
 
-## 10/03/2026
+## 10/03/2026 - Figuring out the globe 
 I first started by importing my video into CapCut. Then I removed the background. I then put that video into TouchDesigner. 
+
  **Version 1:** I played around with what it would look like on a black screen with a timeline at the bottom and a viewfinder in the top right corner. I think this works, but I want something more that the viewer would think is interesting
     ![alt text](<Screenshot 2026-10-04 at 4.41.28 PM.png>)
 
