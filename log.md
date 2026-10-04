@@ -62,3 +62,13 @@ Maybe I will go back to the video version, but make some more tweaks instead, to
 
 Here is the version Claude made when given that data only. 
 ![alt text](<Screenshot 2026-09-30 at 5.48.17 PM.png>) 
+
+##10/03/2026
+I first started by importing my video into CapCut. Then I removed the background. I then put that video into TouchDesigner. 
+ **Version 1:** I played around with what it would look like on a black screen with a timeline at the bottom and a viewfinder in the top right corner. I think this works, but I want something more that the viewer would think is interesting
+    ![alt text](<Screenshot 2026-10-04 at 4.41.28 PM.png>)
+
+ **Version 2:**  I took the globe and timeline and put it on the viewfinder screen. I made sure to offcenter it so the viewer knows where to position themselves. I think I like this version the best because as you scroll, you are able to see the effect happening to you as well. 
+    ![alt text](<Screenshot 2026-10-04 at 5.11.01 PM.png>)
+
+Now that I have my protoype in the final state, I am going to user test with people!
