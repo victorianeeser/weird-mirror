@@ -73,3 +73,16 @@ I first started by importing my video into CapCut. Then I removed the background
     ![alt text](<Screenshot 2026-10-04 at 5.11.01 PM.png>)
 
 Now that I have my protoype in the final state, I am going to user test with people!
+
+I was able to go to Morning Fog Cafe and get some user testing done during breakfast time. I went up to three people who looked like they weren't too busy. Two were okay were okay with a photo, one prefered not to be. For this usertesting, my focus was to see **which version they liked.**
+
+**User 1:** 
+He liked the version where you could see themselves better. He thought that it was more engaging to the user because they are getting impacted by the climate change.
+
+**User 2:** 
+She liked the second version, but wanted the time line to get a little bigger. Maybe it gets more red once you get more into recent years. 
+
+**User 3:**
+She took more of the pulling the timeline approch, which was interesting. The other two moved their hands back and forth. She wanted the "melting" animation at the end to be a little smoother, don't flash the red, it becomes more of a graident instead.
+
+![alt text](UserTesting.png)
