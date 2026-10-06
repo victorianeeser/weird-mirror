@@ -87,7 +87,7 @@ She took more of the pulling the timeline approch, which was interesting. The ot
 
 ![alt text](UserTesting.png)
 
-## 10/05/2026
+## 10/05/2026 - Final Changes
 After user testing and getting my final round of feedback here are changes I made to enhance the experience
 1. Make the auto play stop at the 2000's. This allows the user to see that the screen gets a little red, but doesn't see the extreme effects just yet.
 2. When the users hand is up, the big timeline number turns red and gets a little bigger. This is another affordance that could help the user figure out what to do.
@@ -95,5 +95,15 @@ After user testing and getting my final round of feedback here are changes I mad
 4. Make the globe bigger, so it almost is a half and half on the screen. 
 5. Make the smaller timeline numbers bigger.
 
-I am going to do one more quick round of testing with my peers before I turn in the final. 
+I am going to do one more quick round of testing with my peers before I turn in the final. After a quick check in, I made a small tweak to the numbers at the bottom, but besides that, it functions properly. 
+
+![alt text](<Screenshot 2026-10-05 at 8.12.12 PM.png>)
  
+
+## 10/06/2026 - Final Project
+Here is the link to the final video demonstration 
+https://vimeo.com/1233449580?share=copy&fl=sv&fe=ci 
+
+Overall, I really did like this project. Although I had some setbacks at the start, I think my final version is able to capture what I had envisioned in my head. The project was challenging at times with Python or my computer crashing, but the best thing I could do, was just to keep making and trying out new prompts in order to get it how I want.
+
+If I were to continue working, I would start by making the video clearer. Claude said that would be possible, but we would have to break up the original video into multiple parts, which can lead to more room for error and breaking with the scrubbing, so it advised me to hold off on that for now. For this class, I wanted everything to run properly, but if I were to continue working, that would be my next step.
