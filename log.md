@@ -86,3 +86,14 @@ She liked the second version, but wanted the time line to get a little bigger. M
 She took more of the pulling the timeline approch, which was interesting. The other two moved their hands back and forth. She wanted the "melting" animation at the end to be a little smoother, don't flash the red, it becomes more of a graident instead.
 
 ![alt text](UserTesting.png)
+
+## 10/05/2026
+After user testing and getting my final round of feedback here are changes I made to enhance the experience
+1. Make the auto play stop at the 2000's. This allows the user to see that the screen gets a little red, but doesn't see the extreme effects just yet.
+2. When the users hand is up, the big timeline number turns red and gets a little bigger. This is another affordance that could help the user figure out what to do.
+3. Sharpen the quality of the globe to the best of my ability. Claude said it is at it's max due to this being the free version of TouchDesigner. It said we could split the video up and get it clearer, but then we risk the scrubbing not working properly and since this has to run without breaking, I'd rather not risk it. 
+4. Make the globe bigger, so it almost is a half and half on the screen. 
+5. Make the smaller timeline numbers bigger.
+
+I am going to do one more quick round of testing with my peers before I turn in the final. 
+ 
