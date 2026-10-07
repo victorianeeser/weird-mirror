@@ -102,7 +102,7 @@ I am going to do one more quick round of testing with my peers before I turn in 
 
 ## 10/06/2026 - Final Project
 Here is the link to the final video demonstration 
-https://vimeo.com/1233449580?share=copy&fl=sv&fe=ci 
+https://vimeo.com/1233886693?share=copy&fl=sv&fe=ci
 
 Overall, I really did like this project. Although I had some setbacks at the start, I think my final version is able to capture what I had envisioned in my head. The project was challenging at times with Python or my computer crashing, but the best thing I could do, was just to keep making and trying out new prompts in order to get it how I want.
 
